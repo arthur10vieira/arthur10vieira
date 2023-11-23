@@ -3,6 +3,7 @@
 ## Olá pessoal, me chamo Arthur Cambraia e meu apelido é Tutu! 
 - 🌱 Atualmente estou aprendendo com os cursos de alura
 - :blush: pronomes: Ele/Ele
+- ✔ Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop
 ## Ferramentas e Tecnologias
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80" height="80"/>
