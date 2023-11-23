@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil GitHub 👋
-## Olá, me chamo Arthur Cambraia e meu apelido é Tutu! 
+## Olá pessoal, me chamo Arthur Cambraia e meu apelido é Tutu! 
 - 🌱 Atualmente estou aprendendo com os cursos de alura 
 ## Ferramentas e Tecnologias
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
@@ -14,9 +14,18 @@
 ## Contatos:
 
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"</a>
+  <a href="https://www.youtube.com/@arthurvieira630" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"</a>
   <a href = "mailto:arthur10vieira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/arthur-vieira-cambraia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+## Estatísticas GitHub
+
+<div style="margin-top: 2rem; margin-bottom: 2rem;">
+  <a href="https://github.com/arthur10vieira">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
           
