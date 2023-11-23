@@ -14,6 +14,7 @@
 </div>
 
 ## estou aprendendo...
+
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="80" height="80"/>
 </div>
