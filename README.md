@@ -11,19 +11,19 @@
 
 ## Ferramentas e Tecnologias
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" />               
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50" />               
 </div>
 
 ## estou aprendendo...
 
 <div style="display:flex; flex-direction: row; flex-wrap: wrap; gap: 1rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
 </div>
 
 ## Contatos:
@@ -39,8 +39,8 @@
 
 <div>
   <a href="https://github.com/arthur10vieira">
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/arthur10vieira/arthur10vieira/blob/output/github-contribution-grid-snake.svg)
