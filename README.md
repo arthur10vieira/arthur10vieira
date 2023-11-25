@@ -76,5 +76,3 @@
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/arthur10vieira/arthur10vieira/blob/output/github-contribution-grid-snake.svg)
