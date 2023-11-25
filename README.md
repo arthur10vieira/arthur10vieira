@@ -24,7 +24,7 @@
 </div>
 <br>
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias do Universo de programação:
 
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   &ensp;
@@ -44,6 +44,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60" /> 
   &ensp;
   &ensp;
+  
+</div>
+<br>
+
+## Ferramentas e Tecnologias do Universo de DevOps:
+
+<div style="display:flex; flex-direction: row; flex-wrap: wrap;">
+  &ensp;
+  &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" />
   &ensp;
   &ensp;
@@ -51,7 +60,7 @@
   &ensp;
   &ensp;
 </div>
-<br>
+
 
 ## estou aprendendo...
 
