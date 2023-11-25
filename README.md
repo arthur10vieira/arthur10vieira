@@ -17,9 +17,9 @@
 <hr>
 <h3>Resumo:</h3>
 
-- ➡ Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop
-- ➡ Atualmente estou aprendendo com os cursos de alura
-- ➡ pronomes: Ele/Ele
+🟩 Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop
+🟧 Atualmente estou aprendendo com os cursos de alura
+🟪 Pronomes: Ele/Ele
 <br>
 
 ## Ferramentas e Tecnologias
