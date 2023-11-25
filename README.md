@@ -1,6 +1,6 @@
 <h1>Olá Mundo 🌍</h1>
 <p>Bem vindo ao meu perfil GitHub 👋</p>
-<p>English content:</p>
+<p>English content</p>
 <h2>Hello World 🌍</h2>
 <p>Welcome to my GitHub profile 👋</p>
 <h2>Introdução</h2>
