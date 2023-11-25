@@ -20,7 +20,7 @@
 <p>🟩 Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop</p>
 <p>🟧 Atualmente estou aprendendo com os cursos de alura</p>
 <p>🟪 Pronomes: Ele/Ele</p>
-<p>🟦 Estou disponível para colaborar com os desenvolvedores e comunidade de desenvolvimento.</p>
+<p>🟦 Estou disponível para colaborar com os(as) desenvolvedores(as) e comunidade de desenvolvimento.</p>
 </div>
 <br>
 
