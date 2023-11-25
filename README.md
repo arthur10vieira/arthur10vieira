@@ -51,7 +51,7 @@
 <hr>
 <br>
 <h2>Ferramentas e Tecnologias do Universo de programação:</h2>
-<h3>[Tools and Technologies from the Programming Universe:]</h3>
+<h3>Tools and Technologies from the Programming Universe:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   &ensp;
   &ensp;
@@ -73,7 +73,7 @@
 </div>
 <br>
 <h2>Ferramentas e Tecnologias do Universo de DevOps:</h2>
-<h3>[Tools and Technologies from the DevOps Universe:]</h3>
+<h3>Tools and Technologies from the DevOps Universe:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   &ensp;
   &ensp;
@@ -85,20 +85,20 @@
   &ensp;
 </div>
 <h2>Estou aprendendo...</h2>
-<h3>[I am learning...]</h3>
+<h3>I am learning...</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap; gap: 1rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60"/>
 </div>
 <br>
 <h2>Contatos:</h2>
-<h3>[Contacts:]</h3>
+<h3>Contacts:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   <a href="https://www.youtube.com/@arthurvieira630" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthur10vieira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-vieira-cambraia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <h2>Estatísticas GitHub</h2>
-<h3>[GitHub Stats]</h3>
+<h3>GitHub Stats</h3>
 <div>
   <a href="https://github.com/arthur10vieira">
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=dracula"/>
