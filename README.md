@@ -1,15 +1,30 @@
 # Arthur Cambraia
 <p>Bem vindo ao meu perfil GitHub 👋</p>
-
-<h3>Olá pessoal, me chamo Arthur Cambraia e meu apelido é Tutu!</h3>
-
+<br>
 <h2>Introdução</h2>
+<p>Olá, meu nome é Arthur Cambraia. Tenho deficiência auditiva profunda bilateral, mas isso nunca me impediu de seguir minha paixão pela tecnologia e pela programação. Minha comunicação é versátil, sendo capaz de me expressar oralmente e em Libras. Ao longo de minha carreira, desempenhei papéis como <strong>analista de sistemas, programador, desenvolvedor frontend e desenvolvedor mobile</strong>.</p>
+<p>Minha sede de conhecimento é insaciável e estou constantemente buscando aprimorar minhas habilidades em diversas áreas da <strong>tecnologia da informação</strong>. Sou graduado em <strong>Sistemas de Informação</strong> pelo Centro Universitário de Patos de Minas.</p>
+<br>
+<h3>Experiências e Conquistas:</h3>
+<p>Minha jornada profissional é marcada por desafios que enfrentei com determinação e resiliência:</p>
+<p>- Desenvolvi um aplicativo para uma biblioteca utilizando a tecnologia <strong>Xamarin da Microsoft</strong>.</p>
+<p>- Desenvolvi centenas de formulários, datasets, processos e integrações de serviço na <strong>plataforma Fluig</strong>.</p>
+<p>- Conduzi o desenvolvimento de um aplicativo com <strong>React Native</strong> para a biblioteca da instituição de ensino.</p>
+<br>
+<h3>Objetivos de Carreira</h3>
+<p><strong>Aprimorar Minhas Habilidades Técnicas:</strong> Como desenvolvedor, desejo continuar aprimorando minhas habilidades técnicas em várias áreas, como programação, desenvolvimento mobile e desenvolvimento web. Quero me manter atualizado com as mais recentes tecnologias e tendências.</p>
+<p><strong>Liderança e Gerenciamento:</strong> No futuro, espero assumir papéis de liderança em projetos ou equipes, onde posso aplicar minha experiência e habilidades para liderar os projetos complexos e inspirar outras pessoas da equipe.</p>
+<p><strong>Empreendedorismo:</strong> Tenho um interesse crescente em empreendedorismo e inovação. Um dos meus objetivos a longo prazo é explorar oportunidades empreendedoras e criar produtos ou soluções inovadoras.</p>
+<br>
+<h3>Resumo:</h3>
 
 - ✔ Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop
 - 🌱 Atualmente estou aprendendo com os cursos de alura
 - :blush: pronomes: Ele/Ele
+<br>
 
 ## Ferramentas e Tecnologias
+
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />
@@ -19,12 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
 </div>
+<br>
 
 ## estou aprendendo...
 
 <div style="display:flex; flex-direction: row; flex-wrap: wrap; gap: 1rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
 </div>
+<br>
 
 ## Contatos:
 
