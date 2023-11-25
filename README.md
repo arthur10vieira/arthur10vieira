@@ -1,12 +1,14 @@
 <h1>Olá Mundo 🌍</h1>
-<h3>English content: Hello World 🌍</h3>
 <p>Bem vindo ao meu perfil GitHub 👋</p>
-<p>English content: Welcome to my GitHub profile 👋</p>
+<p>English content:</p>
+<h2>Hello World 🌍</h2>
+<p>Welcome to my GitHub profile 👋</p>
 <h2>Introdução</h2>
 <p>Olá, meu nome é Arthur Cambraia. Tenho deficiência auditiva profunda bilateral, mas isso nunca me impediu de seguir minha paixão pela tecnologia e pela programação. Minha comunicação é versátil, sendo capaz de me expressar oralmente e em Libras. Ao longo de minha carreira, desempenhei papéis como <strong>analista de sistemas, programador, desenvolvedor frontend e desenvolvedor mobile</strong>.</p>
 <p>Minha sede de conhecimento é insaciável e estou constantemente buscando aprimorar habilidades, técnicas e métodos em diversas áreas da <strong>tecnologia da informação</strong>.</p>
 <br>
 <h3>English content</h3>
+<h2>Introduction</h2>
 <p>Hello, my name is Arthur Cambraia. I have profound bilateral hearing loss, but that has never stopped me from pursuing my passion for technology and programming. My communication is versatile, being able to express myself orally and in Libras. Throughout my career, I have played roles as a <strong>systems analyst, programmer, frontend developer and mobile developer</strong>.</p>
 <p>My thirst for knowledge is insatiable and I am constantly seeking to improve skills, techniques and methods in different areas of <strong>information technology</strong>.</p>
 <br>
