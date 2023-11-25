@@ -37,7 +37,7 @@
 <hr>
 <h3>Resumo:</h3>
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
-<p>🟩 Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop</p>
+<p>🟩 Sou um profissional dedicado e apaixonado por criar soluções inovadoras no mundo digital. Com vasta experiência como desenvolvedor de sistemas, frontend e mobile, concentro-me em oferecer experiências de usuário excepcionais e funcionamentos eficientes.</p>
 <p>🟧 Atualmente estou aprendendo com os cursos de alura</p>
 <p>🟪 Pronomes: Ele/Ele</p>
 <p>🟦 Estou disponível para colaborar com os(as) desenvolvedores(as) e comunidade de desenvolvimento.</p>
@@ -46,7 +46,7 @@
 <hr>
 <h3>English content</h3>
 <h3>Summary:</h3>
-<p>🟩 Programming enthusiast for web, mobile and desktop technology development</p>
+<p>🟩 I am a dedicated professional passionate about creating innovative solutions in the digital world. With extensive experience as a systems, frontend and mobile developer, I focus on offering exceptional user experiences and efficient operations.</p>
 <p>🟧 I am currently learning from alura courses</p>
 <p>🟪 Pronouns: He/Him</p>
 <p>🟦 I am available to collaborate with developers and the development community.</p>
