@@ -1,8 +1,8 @@
-<h1>Olá Mundo 🌍🌎🌏</h1>
+<h1>Olá Mundo 🌍</h1>
 <p>Bem vindo ao meu perfil GitHub 👋</p>
 <h2>Introdução</h2>
 <p>Olá, meu nome é Arthur Cambraia. Tenho deficiência auditiva profunda bilateral, mas isso nunca me impediu de seguir minha paixão pela tecnologia e pela programação. Minha comunicação é versátil, sendo capaz de me expressar oralmente e em Libras. Ao longo de minha carreira, desempenhei papéis como <strong>analista de sistemas, programador, desenvolvedor frontend e desenvolvedor mobile</strong>.</p>
-<p>Minha sede de conhecimento é insaciável e estou constantemente buscando aprimorar minhas habilidades em diversas áreas da <strong>tecnologia da informação</strong>.</p>
+<p>Minha sede de conhecimento é insaciável e estou constantemente buscando aprimorar habilidades, técnicas e métodos em diversas áreas da <strong>tecnologia da informação</strong>.</p>
 <br>
 <h3>Experiências e Conquistas:</h3>
 <p>Minha jornada profissional é marcada por desafios que enfrentei com determinação e resiliência:</p>
@@ -16,10 +16,12 @@
 <p><strong>Empreendedorismo:</strong> Tenho um interesse crescente em empreendedorismo e inovação. Um dos meus objetivos a longo prazo é explorar oportunidades empreendedoras e criar produtos ou soluções inovadoras.</p>
 <hr>
 <h3>Resumo:</h3>
-
-🟩 Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop
-🟧 Atualmente estou aprendendo com os cursos de alura
-🟪 Pronomes: Ele/Ele
+<div style="display: flex; flex-direction: column; flex-wrap: wrap;">
+<p>🟩 Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop</p>
+<p>🟧 Atualmente estou aprendendo com os cursos de alura</p>
+<p>🟪 Pronomes: Ele/Ele</p>
+<p>🟦 Estou disponível para colaborar com os desenvolvedores e comunidade de desenvolvimento.</p>
+</div>
 <br>
 
 ## Ferramentas e Tecnologias
