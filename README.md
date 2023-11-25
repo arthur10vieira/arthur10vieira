@@ -60,12 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>
   &ensp;
   &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" />
-  &ensp;
-  &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60" />
-  &ensp;
-  &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
   &ensp;
   &ensp;
@@ -74,6 +68,18 @@
   &ensp;
 </div>
 <br>
+<h2>Ferramentas e Tecnologias do Universo de Frontend:</h2>
+<h3>Tools and Technologies of the Frontend Universe:</h3>
+<div style="display:flex; flex-direction: row; flex-wrap: wrap;">
+  &ensp;
+  &ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" />
+  &ensp;
+  &ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60" />
+  &ensp;
+  &ensp;
+</div>
 <h2>Ferramentas e Tecnologias do Universo de DevOps:</h2>
 <h3>Tools and Technologies from the DevOps Universe:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
