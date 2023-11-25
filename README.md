@@ -1,9 +1,14 @@
 # Arthur Cambraia
-# Bem vindo ao meu perfil GitHub 👋
-## Olá pessoal, me chamo Arthur Cambraia e meu apelido é Tutu! 
+<p>Bem vindo ao meu perfil GitHub 👋</p>
+
+<h3>Olá pessoal, me chamo Arthur Cambraia e meu apelido é Tutu!</h3>
+
+<h2>Introdução</h2>
+
+- ✔ Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop
 - 🌱 Atualmente estou aprendendo com os cursos de alura
 - :blush: pronomes: Ele/Ele
-- ✔ Entusiasta de programação por desenvolvimento de tecnologia web, mobile e desktop
+
 ## Ferramentas e Tecnologias
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80" height="80"/>
