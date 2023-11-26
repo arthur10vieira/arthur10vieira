@@ -96,41 +96,77 @@
 <h3>Tools and Technologies from the Programming Universe:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   <br>
-  &ensp;
-  &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="200" height="200" />
-  &ensp;
-  &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="200" height="200" /> 
-  &ensp;
-  &ensp;
+  <table border="1" borderColor="#000">
+    <tbody>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="200" height="200" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+           &ensp;
+           &ensp;
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="200" height="200" /> 
+           &ensp;
+           &ensp;
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 <h2>Ferramentas e Tecnologias do Universo de Frontend:</h2>
 <h3>Tools and Technologies of the Frontend Universe:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
+  <table border="1" borderColor="#000">
+    <tbody>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="200" height="200" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="200" height="200" />
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
+    </tbody>
+  </table>
   <br>
-  &ensp;
-  &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="200" height="200" />
-  &ensp;
-  &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="200" height="200" />
-  &ensp;
-  &ensp;
 </div>
 <h2>Ferramentas e Tecnologias do Universo de DevOps:</h2>
 <h3>Tools and Technologies from the DevOps Universe:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
+  <table border="1" borderColor="#000">
+    <tbody>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="200" height="200" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="200" height="200" />
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
+    </tbody>
+  </table>
   <br>
-  &ensp;
-  &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="200" height="200" />
-  &ensp;
-  &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="200" height="200" />
-  &ensp;
-  &ensp;
 </div>
 <h2>Estou aprendendo...</h2>
 <h3>I am learning...</h3>
