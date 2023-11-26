@@ -57,9 +57,6 @@
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   &ensp;
   &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>
-  &ensp;
-  &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
   &ensp;
   &ensp;
