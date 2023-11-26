@@ -109,6 +109,6 @@
 <h3>GitHub Stats</h3>
 <div>
   <a href="https://github.com/arthur10vieira">
-  <img loading="lazy" height="1200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="1200em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
