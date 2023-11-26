@@ -14,9 +14,30 @@
 <br>
 <h3>Experiências e Conquistas:</h3>
 <p>Minha jornada profissional é marcada por desafios que enfrentei com determinação e resiliência:</p>
-<p>✅ Desenvolvi um aplicativo para uma biblioteca utilizando a <strong>tecnologia Xamarin da Microsoft</strong>.</p>
-<p>✅ Desenvolvi centenas de formulários, datasets, processos e integrações de serviço na <strong>plataforma Fluig</strong>.</p>
-<p>✅ Conduzi o desenvolvimento de um aplicativo com <strong>React Native</strong> para a biblioteca da instituição de ensino.</p>
+<table>
+  <thead>
+    <tr>
+      <td><h3>Históricos</h3></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>✅ Desenvolvi um aplicativo para uma biblioteca utilizando a <strong>tecnologia Xamarin da Microsoft</strong>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>✅ Desenvolvi centenas de formulários, datasets, processos e integrações de serviço na <strong>plataforma Fluig</strong>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>✅ Conduzi o desenvolvimento de um aplicativo com <strong>React Native</strong> para a biblioteca da instituição de ensino.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br>
 <h3>Objetivos de Carreira</h3>
 <p><strong>Aprimorar Minhas Habilidades Técnicas:</strong> Como desenvolvedor, desejo continuar aprimorando minhas habilidades técnicas em várias áreas, como programação, desenvolvimento mobile e desenvolvimento web. Quero me manter atualizado com as mais recentes tecnologias e tendências.</p>
@@ -26,9 +47,28 @@
 <h3>English content</h3>
 <h3>Experiences and Achievements:</h3>
 <p>My professional journey is marked by challenges that I faced with determination and resilience:</p>
-<p>✅ I developed an application for a library using <strong>Microsoft's Xamarin technology</strong>.</p>
-<p>✅ Developed hundreds of forms, datasets, processes and service integrations on the <strong>Fluig platform</strong></p>
-<p>✅ Led the development of an application with <strong>React Native</strong> for the educational institution's library.</p>
+<table>
+  <thead>
+    <td><h3>Histories</h3></td>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>✅ I developed an application for a library using <strong>Microsoft's Xamarin technology</strong>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>✅ Developed hundreds of forms, datasets, processes and service integrations on the <strong>Fluig platform</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>✅ Led the development of an application with <strong>React Native</strong> for the educational institution's library.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br>
 <h3>Career Objectives</h3>
 <p><strong>Improve My Technical Skills:</strong> As a developer, I want to continue improving my technical skills in various areas, such as programming, mobile development, and web development. I want to stay up to date with the latest technologies and trends.</p>
