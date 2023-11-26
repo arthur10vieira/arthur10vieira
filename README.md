@@ -102,14 +102,14 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="200" height="200" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" height="150" />
           &ensp;
           &ensp;
         </td>
         <td>
            &ensp;
            &ensp;
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="200" height="200" /> 
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="150" height="150" /> 
            &ensp;
            &ensp;
         </td>
@@ -127,14 +127,14 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="200" height="200" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="150" height="150" />
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="200" height="200" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="150" height="150" />
           &ensp;
           &ensp;
         </td>
@@ -152,14 +152,14 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="200" height="200" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="150" height="150" />
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="200" height="200" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="150" height="150" />
           &ensp;
           &ensp;
         </td>
@@ -170,8 +170,20 @@
 </div>
 <h2>Estou aprendendo...</h2>
 <h3>I am learning...</h3>
-<div style="display:flex; flex-direction: row; flex-wrap: wrap; gap: 1rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="200" height="200"/>
+<div style="display:flex; flex-direction: row; flex-wrap: wrap;">
+  <table border="1" borderColor="#000">
+    <tbody>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="150" height="150"/>
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 <h2>Contatos:</h2>
