@@ -102,6 +102,13 @@
         <td>
           &ensp;
           &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="150" height="150" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" height="150" />
           &ensp;
           &ensp;
