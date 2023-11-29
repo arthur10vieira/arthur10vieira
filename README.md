@@ -204,16 +204,6 @@
 <h3>GitHub Stats</h3>
 <div>
   <a href="https://github.com/arthur10vieira">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=prussian&count_private=true&include_all_commits"/>
-        </td>
-        <td>
-          <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&layout=compact&show_icons=true&theme=prussian&count_private=true&include_all_commits"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira&layout=compact&langs_count=7&theme=prussian&count_private=true&include_all_commits=true"/>
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=arthur10vieira&layout=compact&show_icons=true&theme=prussian&count_private=true&include_all_commits=true"/>
 </div>
