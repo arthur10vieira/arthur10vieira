@@ -159,6 +159,22 @@
   </table>
   <br>
 </div>
+<h2>Ferramentas e Tecnologias do Universo de Dados:</h2>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <table border="1" borderColor="#000">
+    <tbody>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <h2>Ferramentas e Tecnologias do Universo de DevOps:</h2>
 <h3>Tools and Technologies from the DevOps Universe:</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
