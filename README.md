@@ -121,6 +121,15 @@
            &ensp;
         </td>
       </tr>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
