@@ -1,17 +1,7 @@
 <h1>Olá Mundo 🌍</h1>
 <p>Bem vindo ao meu perfil GitHub 👋</p>
-<h3>English content</h3>
-<h2>Hello World 🌍</h2>
-<p>Welcome to my GitHub profile 👋</p>
-<h2>Introdução</h2>
 <p>Olá, meu nome é Arthur Cambraia. Tenho deficiência auditiva profunda bilateral, mas isso nunca me impediu de seguir minha paixão pela tecnologia e pela programação. Minha comunicação é versátil, sendo capaz de me expressar oralmente e em Libras. Ao longo de minha carreira, desempenhei papéis como <strong>analista de sistemas, programador, desenvolvedor frontend e desenvolvedor mobile</strong>.</p>
 <p>Minha sede de conhecimento é insaciável e estou constantemente buscando aprimorar habilidades, técnicas e métodos em diversas áreas da <strong>tecnologia da informação</strong>.</p>
-<br>
-<h3>English content</h3>
-<h2>Introduction</h2>
-<p>Hello, my name is Arthur Cambraia. I have profound bilateral hearing loss, but that has never stopped me from pursuing my passion for technology and programming. My communication is versatile, being able to express myself orally and in Libras. Throughout my career, I have played roles as a <strong>systems analyst, programmer, frontend developer and mobile developer</strong>.</p>
-<p>My thirst for knowledge is insatiable and I am constantly seeking to improve skills, techniques and methods in different areas of <strong>information technology</strong>.</p>
-<br>
 <h3>Experiências e Conquistas:</h3>
 <p>Minha jornada profissional é marcada por desafios que enfrentei com determinação e resiliência:</p>
 <table>
@@ -23,17 +13,17 @@
   <tbody>
     <tr>
       <td>
-        <p>✅ Desenvolvi um aplicativo para uma biblioteca utilizando a <strong>tecnologia Xamarin da Microsoft</strong>.</p>
+        <p>✅ Desenvolvimento de um aplicativo para uma biblioteca utilizando a <strong>tecnologia Xamarin da Microsoft</strong>.</p>
       </td>
     </tr>
     <tr>
       <td>
-        <p>✅ Desenvolvi centenas de formulários, datasets, processos e integrações de serviço na <strong>plataforma Fluig</strong>.</p>
+        <p>✅ Desenvolvimento centenas de formulários, datasets, processos e integrações de serviço na <strong>plataforma Fluig</strong>.</p>
       </td>
     </tr>
     <tr>
       <td>
-        <p>✅ Conduzi o desenvolvimento de um aplicativo com <strong>React Native</strong> para a biblioteca da instituição de ensino.</p>
+        <p>✅ Desenvolvimento de um aplicativo com <strong>React Native</strong> para a biblioteca da instituição de ensino.</p>
       </td>
     </tr>
   </tbody>
@@ -43,6 +33,20 @@
 <p><strong>Aprimorar Minhas Habilidades Técnicas:</strong> Como desenvolvedor, desejo continuar aprimorando minhas habilidades técnicas em várias áreas, como programação, desenvolvimento mobile e desenvolvimento web. Quero me manter atualizado com as mais recentes tecnologias e tendências.</p>
 <p><strong>Liderança e Gerenciamento:</strong> No futuro, espero assumir papéis de liderança em projetos ou equipes, onde posso aplicar minha experiência e habilidades para liderar os projetos complexos e inspirar outras pessoas da equipe.</p>
 <p><strong>Empreendedorismo:</strong> Tenho um interesse crescente em empreendedorismo e inovação. Um dos meus objetivos a longo prazo é explorar oportunidades empreendedoras e criar produtos ou soluções inovadoras.</p>
+<h3>Resumo:</h3>
+<div style="display: flex; flex-direction: column; flex-wrap: wrap;">
+  <p>🟩 Sou um profissional dedicado e apaixonado por criar soluções inovadoras no mundo digital. Com vasta experiência como desenvolvedor de sistemas, frontend e mobile, concentro-me em oferecer experiências de usuário excepcionais e funcionamentos eficientes.</p>
+  <p>🟧 Atualmente estou aprendendo com os cursos de alura</p>
+  <p>🟪 Pronomes: Ele/Ele</p>
+  <p>🟦 Estou disponível para colaborar com os(as) desenvolvedores(as) e comunidade de desenvolvimento.</p>
+</div>
+<br>
+<hr>
+<h3>English content</h3>
+<h2>Hello World 🌍</h2>
+<p>Welcome to my GitHub profile 👋</p>
+<p>Hello, my name is Arthur Cambraia. I have profound bilateral hearing loss, but that has never stopped me from pursuing my passion for technology and programming. My communication is versatile, being able to express myself orally and in Libras. Throughout my career, I have played roles as a <strong>systems analyst, programmer, frontend developer and mobile developer</strong>.</p>
+<p>My thirst for knowledge is insatiable and I am constantly seeking to improve skills, techniques and methods in different areas of <strong>information technology</strong>.</p>
 <br>
 <h3>English content</h3>
 <h3>Experiences and Achievements:</h3>
@@ -74,17 +78,6 @@
 <p><strong>Improve My Technical Skills:</strong> As a developer, I want to continue improving my technical skills in various areas, such as programming, mobile development, and web development. I want to stay up to date with the latest technologies and trends.</p>
 <p><strong>Leadership and Management:</strong> In the future, I hope to take on leadership roles in projects or teams, where I can apply my experience and skills to lead complex projects and inspire others on the team.</p>
 <p><strong>Entrepreneurship:</strong> I have a growing interest in entrepreneurship and innovation. One of my long-term goals is to explore entrepreneurial opportunities and create innovative products or solutions.</p>
-<hr>
-<h3>Resumo:</h3>
-<div style="display: flex; flex-direction: column; flex-wrap: wrap;">
-<p>🟩 Sou um profissional dedicado e apaixonado por criar soluções inovadoras no mundo digital. Com vasta experiência como desenvolvedor de sistemas, frontend e mobile, concentro-me em oferecer experiências de usuário excepcionais e funcionamentos eficientes.</p>
-<p>🟧 Atualmente estou aprendendo com os cursos de alura</p>
-<p>🟪 Pronomes: Ele/Ele</p>
-<p>🟦 Estou disponível para colaborar com os(as) desenvolvedores(as) e comunidade de desenvolvimento.</p>
-</div>
-<br>
-<hr>
-<h3>English content</h3>
 <h3>Summary:</h3>
 <p>🟩 I am a dedicated professional passionate about creating innovative solutions in the digital world. With extensive experience as a systems, frontend and mobile developer, I focus on offering exceptional user experiences and efficient operations.</p>
 <p>🟧 I am currently learning from alura courses</p>
