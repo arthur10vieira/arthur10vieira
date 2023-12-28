@@ -95,67 +95,67 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" width="100" height="100" />
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" width="100" height="100" />
           &ensp;
           &ensp;
         </td>
         <td>
            &ensp;
            &ensp;
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="100" height="100" /> 
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJs" width="100" height="100" /> 
            &ensp;
            &ensp;
         </td>
         <td>
            &ensp;
            &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="100" height="100"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="100" height="100"/>
            &ensp;
            &ensp;
-        </td>
-      </tr>
-      <tr>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  width="100" height="100"/>
-          &ensp;
-          &ensp;
-        </td>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="100" height="100"/>
-          &ensp;
-          &ensp;
-        </td>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="100" height="100" />
-          &ensp;
-          &ensp;
-        </td>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" width="100" height="100" />
-          &ensp;
-          &ensp;
         </td>
       </tr>
       <tr>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="100" height="100"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="express" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" title="eslint" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" title="Socket.io" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" width="100" height="100"/>
           &ensp;
           &ensp;
         </td>
