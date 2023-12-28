@@ -151,6 +151,15 @@
           &ensp;
         </td>
       </tr>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
