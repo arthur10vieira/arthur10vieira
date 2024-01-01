@@ -215,6 +215,13 @@
           &ensp;
           &ensp;
         </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
       </tr>
     </tbody>
   </table>
