@@ -1,4 +1,4 @@
-<h1>Olá Mundo 🌍</h1>
+<h1>Olá todas as pessoas deste mundo imenso 🌍</h1>
 <p>Bem vindo ao meu perfil GitHub 👋</p>
 <p>Olá, meu nome é Arthur Henrique Vieira Cambraia. Tenho deficiência auditiva profunda bilateral, mas isso nunca me impediu de seguir minha dedicação paixão pela tecnologia e pela programação. Minha comunicação é ampla, sendo capaz de me expressar oralmente e em Libras. Ao longo de minha carreira, desempenhei papéis como <strong>analista de sistemas, programador, desenvolvedor frontend e desenvolvedor mobile</strong>.</p>
 <p>Minha sede de conhecimento é constante, por isso estou buscando aprimorar habilidades, técnicas e métodos apropriados em diversas áreas da <strong>tecnologia e Sistema da informação</strong>.</p>
@@ -85,8 +85,8 @@
 <p>🟦 I am available to collaborate with developers and the development community.</p>
 <hr>
 <br>
-<h2>Ferramentas e Tecnologias do Universo de programação:</h2>
-<h3>Tools and Technologies from the Programming Universe:</h3>
+<h2>Ferramentas e Tecnologias do Universo de programação(Backend):</h2>
+<h3>Tools and Technologies from the Programming Universe(Backend):</h3>
 <div style="display:flex; flex-direction: row; flex-wrap: wrap;">
   <br>
   <table border="1" borderColor="#000">
@@ -250,6 +250,13 @@
           &ensp;
           &ensp;
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>
           &ensp;
           &ensp;
         </td>
