@@ -265,23 +265,6 @@
   </table>
   <br>
 </div>
-<h2>Estou aprendendo...</h2>
-<h3>I am learning...</h3>
-<div style="display:flex; flex-direction: row; flex-wrap: wrap;">
-  <table border="1" borderColor="#000">
-    <tbody>
-      <tr>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="100" height="100"/>
-          &ensp;
-          &ensp;
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 <br>
 <h2>Contatos:</h2>
 <h3>Contacts:</h3>
