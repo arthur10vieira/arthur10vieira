@@ -1,4 +1,4 @@
-<h1>Olá todas as pessoas deste mundo imenso 🌍</h1>
+<h1>Olá, todas as pessoas deste mundo imenso</h1>
 <p>Bem vindo ao meu perfil GitHub 👋</p>
 <p>Olá, meu nome é Arthur Henrique Vieira Cambraia. Tenho deficiência auditiva profunda bilateral, mas isso nunca me impediu de seguir minha dedicação paixão pela tecnologia e pela programação. Minha comunicação é ampla, sendo capaz de me expressar oralmente e em Libras. Ao longo de minha carreira, desempenhei papéis como <strong>analista de sistemas, programador, desenvolvedor frontend e desenvolvedor mobile</strong>.</p>
 <p>Minha sede de conhecimento é constante, por isso estou buscando aprimorar habilidades, técnicas e métodos apropriados em diversas áreas da <strong>tecnologia e Sistema da informação</strong>.</p>
