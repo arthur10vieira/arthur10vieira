@@ -1,4 +1,5 @@
 <h1>Olá, todas as pessoas deste mundo imenso</h1>
+<hr>
 <p>Bem vindo ao meu perfil GitHub 👋</p>
 <p>Olá, meu nome é Arthur Henrique Vieira Cambraia. Tenho deficiência auditiva profunda bilateral, mas isso nunca me impediu de seguir minha dedicação paixão pela tecnologia e pela programação. Minha comunicação é ampla, sendo capaz de me expressar oralmente e em Libras. Ao longo de minha carreira, desempenhei papéis como <strong>analista de sistemas, programador, desenvolvedor frontend e desenvolvedor mobile</strong>.</p>
 <p>Minha sede de conhecimento é constante, por isso estou buscando aprimorar habilidades, técnicas e métodos apropriados em diversas áreas da <strong>tecnologia e Sistema da informação</strong>.</p>
@@ -164,67 +165,74 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="100" height="100" />
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100" />
           &ensp;
           &ensp;
         </td>
         <td>
            &ensp;
            &ensp;
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJs" width="100" height="100" /> 
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJs" alt="NodeJs" width="100" height="100" /> 
            &ensp;
            &ensp;
         </td>
         <td>
            &ensp;
            &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="100" height="100"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="100" height="100" alt="NPM"/>
            &ensp;
            &ensp;
-        </td>
-      </tr>
-      <tr>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="express" width="100" height="100"/>
-          &ensp;
-          &ensp;
-        </td>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" title="eslint" width="100" height="100"/>
-          &ensp;
-          &ensp;
-        </td>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" width="100" height="100" />
-          &ensp;
-          &ensp;
-        </td>
-        <td>
-          &ensp;
-          &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" title="Socket.io" width="100" height="100" />
-          &ensp;
-          &ensp;
         </td>
       </tr>
       <tr>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" width="100" height="100"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="express" alt="express" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" title="Socket.io" alt="Socket.io" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" alt="Nest" title="Nest" width="100" height="100"/>
           &ensp;
           &ensp;
         </td>
@@ -242,21 +250,21 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100" height="100" alt="HTML5" title="HTML5"/>
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="100" height="100" alt="CSS3" title="CSS3" />
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="100" height="100"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="100" height="100" alt="Markdown" title="Markdown"/>
           &ensp;
           &ensp;
         </td>
@@ -273,28 +281,28 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="100" height="100" alt="Mongodb" title="Mongodb"/>
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="100" height="100" title="SQLite" alt="SQLite"/>
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="100" height="100" title="Oracle" alt="Oracle"/>
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="100" height="100" title="postgresql" alt="postgresql" />
           &ensp;
           &ensp;
         </td>
@@ -311,21 +319,21 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100" alt="github" title="github"/>
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" title="git" alt="git" />
           &ensp;
           &ensp;
         </td>
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100" height="100" title="Docker" alt="Docker"/>
           &ensp;
           &ensp;
         </td>
