@@ -258,6 +258,13 @@
           &ensp;
           &ensp;
         </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" alt="Eclipse" title="Eclipse" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
       </tr>
     </tbody>
   </table>
