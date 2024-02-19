@@ -235,6 +235,29 @@
           &ensp;
           &ensp;
         </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp" title="Csharp" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" title="php" width="100" height="100" />
+          &ensp;
+          &ensp;
+        </td>
       </tr>
     </tbody>
   </table>
