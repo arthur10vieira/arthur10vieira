@@ -261,7 +261,7 @@
         <td>
           &ensp;
           &ensp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" alt="Eclipse" title="Eclipse" width="100" height="100"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           &ensp;
           &ensp;
         </td>
