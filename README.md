@@ -265,6 +265,13 @@
           &ensp;
           &ensp;
         </td>
+        <td>
+          &ensp;
+          &ensp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React e React Native" width="100" height="100"/>
+          &ensp;
+          &ensp;
+        </td>
       </tr>
     </tbody>
   </table>
