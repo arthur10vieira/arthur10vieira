@@ -2,26 +2,13 @@
 
 Seja bem vindo ao meu perfil de github
 
-🎯 **Programador de Sistema**
-
-🎯 **Desenvolvedor de Sistema**
-
-🎯 **Desenvolvedor Full-Stack**
-
-🎯 **Desenvolvedor Backend**
-
-🎯 **Desenvolvedor frontend**
-
-🎯 **Desenvolvedor Mobile**
-
-🎯 **Analista de Sistema**
-
-🎯 **Administrador de Banco de dados**
-
-🎯 **Analista e Cientista de dados**
-
-🎯 **Designer UX e UI**
-
+🎯 **Desenvolvedor Full-Stack** |
+🎯 **Desenvolvedor Backend** |
+🎯 **Desenvolvedor frontend** |
+🎯 **Desenvolvedor Mobile** |
+🎯 **Analista de Sistema** |
+🎯 **Administrador de Banco de dados** |
+🎯 **Analista e Cientista de dados** |
 🎯 **Criação e Edição de Vídeo**
 
 
