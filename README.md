@@ -21,7 +21,7 @@ Seja bem vindo ao meu perfil de github
 
 ## 🌟 Sobre mim
 
-Sou um profissional multidisciplinar dedicado à tecnologia e inovação, com experiência em desenvolvimento de sistemas, análise de dados, administração e design UX/UI. Minha paixão é combinar criatividade e estratégia para criar soluções completas que atendam às necessidades de empresas e usuários finais.
+Sou um profissional multidisciplinar dedicado à tecnologia e inovação, com experiência em desenvolvimento de sistemas, análise de dados, administração e design UX/UI. Minha paixão é combinar criatividade e estratégia para criar soluções completas que atendam às necessidades de empresas e usuários finais. Como pessoa com surdez bilateral profunda, enfrento cada desafio com determinação e criatividade.
 
 - 💻 **Desenvolvimento e Análise de Sistemas**: Planejo, projeto e implemento sistemas eficientes e escaláveis, alinhados às demandas do mercado.
 - 📊 **Ciência de Dados**: Transformo dados complexos em insights valiosos para auxiliar na tomada de decisões estratégicas.
@@ -30,6 +30,8 @@ Sou um profissional multidisciplinar dedicado à tecnologia e inovação, com ex
 🔮 Visão de Futuro: Meu objetivo é utilizar essa bagagem diversificada para, no futuro, construir meu próprio negócio, oferecendo soluções tecnológicas inovadoras que impactem positivamente pessoas e empresas.
 
 📌 Sou movido pela **inovação**, guiado pela **multidisciplinaridade** e comprometido em criar experiências incríveis para todos os envolvidos.
+
+📋 Minha trajetória na tecnologia é uma prova de que barreiras podem ser superadas com esforço e dedicação. Estou sempre em busca de novos conhecimentos e adoro compartilhar minha experiência para inspirar outras pessoas, especialmente aquelas que, como eu, acreditam que limitações podem ser transformadas em força.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -59,14 +61,10 @@ Sou um profissional multidisciplinar dedicado à tecnologia e inovação, com ex
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React-Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react-native&logoColor=white)
 
-
-
-
 ## 📊 Estatísticas de Github
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthur10vieira&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur10vieira)
-
 
 ## 🌐 Entre em Contato
 
