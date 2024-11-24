@@ -1,16 +1,6 @@
-# Olá, sou Arthur Vieira!(Hello, i am Arthur)
+# Olá, sou Arthur Vieira!
 
 Seja bem vindo ao meu perfil de github
-
-🎯 **Desenvolvedor Full-Stack** |
-🎯 **Desenvolvedor Backend** |
-🎯 **Desenvolvedor frontend** |
-🎯 **Desenvolvedor Mobile** |
-🎯 **Analista de Sistema** |
-🎯 **Administrador de Banco de dados** |
-🎯 **Analista e Cientista de dados** |
-🎯 **Criação e Edição de Vídeo**
-
 
 ## 📋 Overview
 
