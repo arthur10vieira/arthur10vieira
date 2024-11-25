@@ -107,7 +107,7 @@ Se você deseja entrar em contato comigo, aqui estão algumas formas:
 - 📧 **Email**: [Acesse aqui](mailto:arthur10vieira@gmail.com)
 - 💼 **Minha rede profissional** - [LinkedIn](https://linkedin.com/in/arthur-vieira-cambraia)
 - 📸 **Instagram**: [Visite meu perfil do instagram](https://instagram.com/tutucambraia)
-- 🎥 **Canal do YouTube**: [Visite meu canal](https://www.youtube.com/c/arthurvieira630)
+- 🎥 **Canal do YouTube**: [Visite meu canal](https://www.youtube.com/@arthurvieira630)
 - 📱 **Whatsapp**: [Clique aqui para me chamar](https://wa.me/5534992310978)
 
 Estou sempre aberto para colaborações, ideias e oportunidades de projetos!
